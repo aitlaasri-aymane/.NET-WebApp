@@ -17,6 +17,8 @@ Product Rest Controller :
 Get all products :
 
 <img width="1359" alt="Screen Shot 2022-12-23 at 3 17 58 PM" src="https://user-images.githubusercontent.com/84875875/209350314-b78334d6-16de-463e-962a-1d30679554d7.png">
+<img width="1374" alt="Screen Shot 2022-12-23 at 3 25 28 PM" src="https://user-images.githubusercontent.com/84875875/209351437-86cea9bb-7f2e-4440-9f62-ba7e37700759.png">
+<img width="1374" alt="Screen Shot 2022-12-23 at 3 26 07 PM" src="https://user-images.githubusercontent.com/84875875/209351528-ec3d585a-790d-4b70-8482-4a752195a6ee.png">
 
 Les entites :
 
